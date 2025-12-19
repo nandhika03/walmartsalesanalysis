@@ -1,2 +1,8 @@
-ipykernel
-kaggle
+#-e.
+# ipykernel
+# kaggle
+# pandas
+# numpy
+# seaborn
+# matplotlib
+fsspec
